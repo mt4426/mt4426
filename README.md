@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mt4426
-- 👀 I’m interested in the natural world.
+- 👋 Hi, I’m Maliha Tasnim
+- 👀 I’m interested in the natural world and am passionate about Life Sciences.
 - 🌱 I’m currently learning phyton...
 - 💞️ I’m looking to collaborate on how we can use sounds to solve the problems in our natural world
 - 📫 How to reach me ...
